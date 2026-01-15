@@ -1,0 +1,15 @@
+GLYPH_SEQUENCE = [
+    "G_E",
+    "G_TP_1",
+    "G_TP_2",
+    "G_TP_3",
+    "G_TP_4",
+    "G_TP_5",
+    "G_TP_6",
+    "G_TP_7",
+    "G_TP_8",
+    "G_TP_9",
+    "G_TP_10",
+    "G_FC",
+    "G_END",
+]

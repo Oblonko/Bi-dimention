@@ -142,4 +142,4 @@ def require_scope(payload: Dict[str, Any], scope: str) -> None:
         raise HTTPException(
             status_code=status.HTTP_403_FORBIDDEN,
             detail=f"Missing required scope: {scope}",
-        )
+)
